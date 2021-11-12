@@ -1,0 +1,15 @@
+/* home page */
+.btn-create-job {
+    background-color: royalblue;
+    padding: 5px 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.btn-block {
+    margin: 25px;
+}
+
+.container-main {
+    margin: 25px 50px;
+}
