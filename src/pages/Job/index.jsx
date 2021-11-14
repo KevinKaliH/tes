@@ -7,7 +7,7 @@ import {Outlet} from 'react-router-dom'
 
 export default function ContainerJob(){
     return (
-        <div className='container-main'>
+        <div className='container'>
             <Outlet/>
         </div>
     )
